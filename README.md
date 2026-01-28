@@ -21,6 +21,9 @@ cd apps/posawesome
 pre-commit install
 ```
 
+
+
+
 Pre-commit is configured to use the following tools for checking and formatting your code:
 
 - ruff
